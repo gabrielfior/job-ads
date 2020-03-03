@@ -1,0 +1,6 @@
+id,job_type,job_description,skills
+1,"part-time","We want a data scientist. He must know Python and R.","python,r"
+2,"part-time","We need a working student to work with project management. He has to be organized.","organization,project management"
+3,"full-time","Currently looking for analyst for data processing with Python.","python"
+4,"full-time","Currently looking for project manager who can do some analysis with Python, build slides with Power Point and be as organized as possible., analyst for data processing with Python.","python, analysis, Power Point"
+5,"full-time","Apply if you like Python and fighting for democracy.","python, democracy"
